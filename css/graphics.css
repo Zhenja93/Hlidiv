@@ -1,0 +1,61 @@
+  
+body{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.top {
+background: url(../img/146560.jpg);
+border-radius: 10px;
+box-shadow: 0 3px 7px 13px #2196f3b8
+}
+
+
+body{
+background: url(../img/fon-title.jpg);
+}
+.conteiner {
+    display: flex;
+}
+.leftCont {
+    padding-top: 20px;
+}
+
+.left {
+    width: 500px;
+    height: 1300px;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px 13px #e9d14e;
+    padding-top: 10px;
+    
+}
+
+.centr {   
+    margin-left: auto;
+    margin-right: auto;
+}
+.rightCont{
+    padding-top: 20px;
+}
+.right {
+    border-radius: 10px;
+    box-shadow: 0 5px 10px 13px #e9d14e;
+    width: 500px;
+    height: 1300px;
+    padding-top: 10px;
+}
+.gerb {
+   display:inline;
+   margin-left: 140px;
+   margin-right: auto
+}
+.img-gerb {
+    width: 200px;
+}
+.img-prapor {
+    width: 200px;
+    padding-top: 10px;
+}
+.put {
+    width: 390px;
+
+}

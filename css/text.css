@@ -1,0 +1,32 @@
+.top, h1, p {
+text-align: center;
+}
+.top > h1 {
+text-align:center;
+font-size: 32px;
+}
+.top1 > p {
+text-align:10px;
+line-height: 0.5;
+}
+.left {
+ text-align:center;
+}
+
+.centr {
+    text-align:center 
+
+}
+   
+.right {
+    text-align:center;
+}
+
+.centr2{
+    line-height: 0.1;
+    font-size: 13px;
+}
+
+
+
+
