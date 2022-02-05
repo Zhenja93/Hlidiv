@@ -6,7 +6,8 @@ body{
 .top {
 background: url(../img/146560.jpg);
 border-radius: 10px;
-box-shadow: 0 3px 7px 13px #2196f3b8
+box-shadow: 0 3px 7px 13px #2196f3b8;
+height: 117px;
 }
 
 
@@ -58,4 +59,8 @@ background: url(../img/fon-title.jpg);
 .put {
     width: 390px;
 
+}
+.pprapor,.pgerb,.pput {
+    margin-left: 10px;
+    margin-right: 10px;
 }
